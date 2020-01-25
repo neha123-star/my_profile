@@ -17,9 +17,9 @@
   <div class="col-md-12">
   <center><h2>About Me</h2></center>
   <p><center><img src="{{url('assets/img/1.jpg')}}" class="rounded-circle"></center></p>
-  <p>
+  <p><center>
     Nama saya Neha Rosma Malini, biasa dipanggil Neha. Saya lahir di Batu Tanggal 25 Februari 2003
-  </p>
+    </center></p>
 
         <div class="alert alert-dark" role="alert">
         <table>
